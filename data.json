@@ -1,0 +1,25 @@
+[
+    {
+        "certificate1": "Computer Science",
+        "certificate2": "Arts Management",
+        "certificate3": "Digital Marketing"
+    },
+
+    {
+        "diploma1": "Computer Science",
+        "diploma2": "Sewage Treatment",
+        "diploma3": "Mechatronics"
+    },
+
+    {
+        "bachelors1": "Mechanical Engineering",
+        "bachelor2s": "Computer Engineering",
+        "bachelors3": "Industrial Engineering"
+    },
+
+    {
+        "masters1": "Psychology",
+        "masters2": "English Studies",
+        "masters3": "French Literature"
+    }
+]
