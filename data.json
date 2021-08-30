@@ -1,31 +1,56 @@
 [
     {
-        "certificate1": "Computer Science",
-        "certificate2": "Arts Management",
-        "certificate3": "Digital Marketing",
-        "certificate4": "Banking and Finance",
-        "certificate5": "Data Analytics"
-    },
-
-    {
-        "diploma1": "Computer Science",
-        "diploma2": "Sewage Treatment",
-        "diploma3": "Mechatronics",
-        "diploma4": "Big Data and Analytics",
-        "diploma5": "Business Accounting"
+        "Certificates": {
+            "C1": "Computer Science",
+            "C2": "Arts Management",
+            "C3": "Digital Marketing",
+            "C4": "Banking and Finance",
+            "C5": "Data Analytics"
+        }
     },
     {
-        "bachelors1": "Mechanical Engineering",
-        "bachelor2s": "Computer Engineering",
-        "bachelors3": "Industrial Engineering",
-        "bachelors4": "Business Accounting",
-        "bachelors5": "Business Administration"       
+        "Diplomas": {
+            "D1": "Computer Science",
+            "D2": "Sewage Treatment",
+            "D3": "Mechatronics",
+            "D4": "Big Data and Analytics",
+            "D5": "Business Accounting"
+        }
     },
     {
-        "masters1": "Psychology",
-        "masters2": "English Studies",
-        "masters3": "French Literature",
-        "masters4": "Arabic Literature",
-        "masters5": "Business Administration"
+        "Bachelors": {
+            "BachelorOfArts": {
+                "BA1": "Psycology",
+                "BA2": "Political Science",
+                "BA3": "Fine Arts",
+                "BA4": "Journalism",
+                "BA5": "Fashion Design"
+            },
+            "BachelorOfScience": {
+                "BS1": "Banking and Finance",
+                "BS2": "Family & Entrepreneurial Business Management",
+                "BS3": "Information Technology Management",
+                "BS4": "International Business",
+                "BS5": "Business Administration"
+            }
+        }
+    },
+    {
+        "Masters": {
+            "MasterOfArts": {
+                "MA1": "Psychology",
+                "MA2": "English Studies",
+                "MA3": "French Literature",
+                "MA4": "Arabic Literature",
+                "MA5": "Political Science"
+            },
+            "MasterOfScience": {
+                "MS1": "Big Data and Analytics",
+                "MS2": "Mechanical Engineering",
+                "MS3": "Computer Engineering",
+                "MS4": "Industrial Engineering",
+                "MS5": "Civil Engineering"
+            }
+        }
     }
 ]
