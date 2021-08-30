@@ -4,10 +4,10 @@ const importData = require("./data.json")
 let port = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
-    res.send("Hello World!");
+    res.send("Our Offerings: Certificates, Diplomas, Bachelors, Masters");
 })
 
-app.get("/players", (req, res) => {
+app.get("/offerings", (req, res) => {
     res.send(importData);
 })
 
