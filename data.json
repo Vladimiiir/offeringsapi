@@ -13,8 +13,7 @@
         "diploma3": "Mechatronics",
         "diploma4": "Big Data and Analytics",
         "diploma5": "Business Accounting"
-    }5
-
+    },
     {
         "bachelors1": "Mechanical Engineering",
         "bachelor2s": "Computer Engineering",
@@ -22,7 +21,6 @@
         "bachelors4": "Business Accounting",
         "bachelors5": "Business Administration"       
     },
-
     {
         "masters1": "Psychology",
         "masters2": "English Studies",
