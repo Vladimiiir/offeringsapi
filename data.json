@@ -1,56 +1,134 @@
-[
-    {
-        "Certificates": {
-            "C1": "Computer Science",
-            "C2": "Arts Management",
-            "C3": "Digital Marketing",
-            "C4": "Banking and Finance",
-            "C5": "Data Analytics"
+{
+    "Certificates": [
+        {
+            "CODE": "C1",
+            "value": "Computer Science"
+        },
+        {
+            "CODE": "C2",
+            "value": "Arts Management"
+        },
+        {
+            "CODE": "C3",
+            "value": "Digital Marketing"
+        },
+        {
+            "CODE": "C4",
+            "value": "Banking and Finance"
+        },
+        {
+            "CODE": "C5",
+            "value": "Data Analytics"
         }
-    },
-    {
-        "Diplomas": {
-            "D1": "Computer Science",
-            "D2": "Sewage Treatment",
-            "D3": "Mechatronics",
-            "D4": "Big Data and Analytics",
-            "D5": "Business Accounting"
+    ],
+    "Diplomas": [
+        {
+            "CODE": "D1",
+            "value": "Computer Science"
+        },
+        {
+            "CODE": "D2",
+            "value": "Sewage Treatment"
+        },
+        {
+            "CODE": "D3",
+            "value": "Mechatronics"
+        },
+        {
+            "CODE": "D4",
+            "value": "Big Data and Analytics"
+        },
+        {
+            "CODE": "D5",
+            "value": "Business Accounting"
         }
-    },
-    {
-        "Bachelors": {
-            "BachelorOfArts": {
-                "BA1": "Psycology",
-                "BA2": "Political Science",
-                "BA3": "Fine Arts",
-                "BA4": "Journalism",
-                "BA5": "Fashion Design"
-            },
-            "BachelorOfScience": {
-                "BS1": "Banking and Finance",
-                "BS2": "Family & Entrepreneurial Business Management",
-                "BS3": "Information Technology Management",
-                "BS4": "International Business",
-                "BS5": "Business Administration"
-            }
+    ],
+    "BachelorOfArts": [
+        {
+            "CODE": "BA1",
+            "value": "Psycology"
+        },
+        {
+            "CODE": "BA2",
+            "value": "Political Science"
+        },
+        {
+            "CODE": "BA3",
+            "value": "Fine Arts"
+        },
+        {
+            "CODE": "BA4",
+            "value": "Journalism"
+        },
+        {
+            "CODE": "BA5",
+            "value": "Fashion Design"
         }
-    },
-    {
-        "Masters": {
-            "MasterOfArts": {
-                "MA1": "Psychology",
-                "MA2": "English Studies",
-                "MA3": "French Literature",
-                "MA4": "Arabic Literature",
-                "MA5": "Political Science"
-            },
-            "MasterOfScience": {
-                "MS1": "Big Data and Analytics",
-                "MS2": "Mechanical Engineering",
-                "MS3": "Computer Engineering",
-                "MS4": "Industrial Engineering",
-                "MS5": "Civil Engineering"
-            }
+    ],
+    "BachelorOfScience": [
+        {
+            "CODE": "BS1",
+            "value": "Banking and Finance"
+        },
+        {
+            "CODE": "BS2",
+            "value": "Family & Entrepreneurial Business Management"
+        },
+        {
+            "CODE": "BS3",
+            "value": "Information Technology Management"
+        },
+        {
+            "CODE": "BS4",
+            "value": "International Business"
+        },
+        {
+            "CODE": "BS5",
+            "value": "Business Administration"
         }
-    }
-]
+    ],
+    "MasterOfArts": [
+        {
+            "CODE": "MA1",
+            "value": "Psychology"
+        },
+        {
+            "CODE": "MA2",
+            "value": "English Studies"
+        },
+        {
+            "CODE": "MA3",
+            "value": "French Literature"
+        },
+        {
+            "CODE": "MA4",
+            "value": "Arabic Literature"
+        },
+        {
+            "CODE": "MA5",
+            "value": "Political Science"
+        }
+    ],
+    "MasterOfScience": [
+        {
+            "CODE": "MS1",
+            "value": "Big Data and Analytics"
+        },
+        {
+            "CODE": "MS2",
+            "value": "Mechanical Engineering"
+        },
+        {
+            "CODE": "MS3",
+            "value": "Computer Engineering"
+        },
+        {
+            "CODE": "MS4",
+            "value": "Industrial Engineering"
+        },
+        {
+            "CODE": "MS5",
+            "value": "Civil Engineering"
+        }
+    ]
+}
