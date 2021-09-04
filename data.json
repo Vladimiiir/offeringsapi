@@ -1,56 +1,44 @@
-{
-    "Certificates": [
-        {
-            "C1": "Computer Science",
-            "C2": "Arts Management",
-            "C3": "Digital Marketing",
-            "C4": "Banking and Finance",
-            "C5": "Data Analytics"
-        }
-    ],
-    "Diplomas": [
-        {
-            "D1": "Computer Science",
-            "D2": "Sewage Treatment",
-            "D3": "Mechatronics",
-            "D4": "Big Data and Analytics",
-            "D5": "Business Accounting"
-        }
-    ],
-    "BachelorOfArts": [
-        {
-            "BA1": "Psycology",
-            "BA2": "Political Science",
-            "BA3": "Fine Arts",
-            "BA4": "Journalism",
-            "BA5": "Fashion Design"
-        }
-    ],
-    "BachelorOfScience": [
-        {
-            "BS1": "Banking and Finance",
-            "BS2": "Family and Entrepreneurial Business Management",
-            "BS3": "Information Technology Management",
-            "BS4": "International Business",
-            "BS5": "Business Administration"
-        }
-    ],
-    "MasterOfArts": [
-        {
-            "MA1": "Psychology",
-            "MA2": "English Studies",
-            "MA3": "French Literature",
-            "MA4": "Arabic Literature",
-            "MA5": "Political Science"
-        }
-    ],
-    "MasterOfScience": [
-        {
-            "MS1": "Big Data and Analytics",
-            "MS2": "Mechanical Engineering",
-            "MS3": "Computer Engineering",
-            "MS4": "Industrial Engineering",
-            "MS5": "Civil Engineering"
-        }
-    ]
-}
+[
+    {
+        "C1": "Computer Science",
+        "C2": "Arts Management",
+        "C3": "Digital Marketing",
+        "C4": "Banking and Finance",
+        "C5": "Data Analytics"
+    },
+    {
+        "D1": "Computer Science",
+        "D2": "Sewage Treatment",
+        "D3": "Mechatronics",
+        "D4": "Big Data and Analytics",
+        "D5": "Business Accounting"
+    },
+    {
+        "BA1": "Psycology",
+        "BA2": "Political Science",
+        "BA3": "Fine Arts",
+        "BA4": "Journalism",
+        "BA5": "Fashion Design"
+    },
+    {
+        "BS1": "Banking and Finance",
+        "BS2": "Family and Entrepreneurial Business Management",
+        "BS3": "Information Technology Management",
+        "BS4": "International Business",
+        "BS5": "Business Administration"
+    },
+    {
+        "MA1": "Psychology",
+        "MA2": "English Studies",
+        "MA3": "French Literature",
+        "MA4": "Arabic Literature",
+        "MA5": "Political Science"
+    },
+    {
+        "MS1": "Big Data and Analytics",
+        "MS2": "Mechanical Engineering",
+        "MS3": "Computer Engineering",
+        "MS4": "Industrial Engineering",
+        "MS5": "Civil Engineering"
+    }
+]
